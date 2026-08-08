@@ -5,7 +5,7 @@ A component description
 ## Installation
 
 ```bash
-okalit add liapf-badge --registry github.com/your-org/your-catalog
+ npx @okalit/cli add liapf-badge --registry github.com/LIAPF-Team/liapf-badge
 ```
 
 Or manually copy to your project:
